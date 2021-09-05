@@ -9,6 +9,13 @@ The purpose fo this prototype is to allow to quickly get signal out of noise fro
 - allows to specify period searched
 - allows to specify custom filters 
 
+Example images:
+![Alt text](https://github.com/njeanselme/botd-d3-sankey-aggregation/blob/main/images/aggregated%20hits.pmg.png?raw=true)
+![Alt text](https://github.com/njeanselme/botd-d3-sankey-aggregation/blob/main/images/drilldown.png?raw=true)
+
+
+
+# Installation
 
 1) View this notebook in your browser by running a web server in this folder.
 
